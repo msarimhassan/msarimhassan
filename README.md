@@ -1,7 +1,8 @@
-<h1 align="center">Hello there👋, I'm Sarim Hassan</h1>
-<h3 align="center">A Full Stack Web Developer and a final year student</h3>
+<div>
+  <img src="https://drive.google.com/file/d/1D4L1xERFUkBi7FEfvfWMYAj7ZpcZS4Eg/view?usp=sharing" alt="msarimhassan"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msarimhassan&label=Profile%20views&color=0e75b6&style=flat" alt="msarimhassan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=msarimhassan&label=Profile%20views&color=0e75b6&style=flat" alt="msarimhassan" /> </p>
 
 
 - 🌱 I’m currently learning **Flutter**
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me **msarimdev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NfnmNgtwXYacIbskaMBY4MdaX9yMXyR_/view?usp=sharing](https://drive.google.com/file/d/1NfnmNgtwXYacIbskaMBY4MdaX9yMXyR_/view?usp=sharing)
+- 📄 [**Resume**](https://drive.google.com/file/d/1NfnmNgtwXYacIbskaMBY4MdaX9yMXyR_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
