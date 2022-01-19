@@ -1,5 +1,5 @@
 <div>
-  <img src="https://drive.google.com/file/d/1D4L1xERFUkBi7FEfvfWMYAj7ZpcZS4Eg/view?usp=sharing" alt="msarimhassan"/>
+  <img src="cover.jpg" alt="msarimhassan"/>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msarimhassan&label=Profile%20views&color=0e75b6&style=flat" alt="msarimhassan" /> </p>
