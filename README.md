@@ -4,10 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msarimhassan&label=Profile%20views&color=0e75b6&style=flat" alt="msarimhassan" /> </p>
 
-
-- 🌱 I’m currently learning **Flutter**
-
-- Hi there!👋 I'm Sarim, a skilled software engineer with one year of experience working with React, Node.js, and React Native. I specialize in third-party integrations, Docker, and deployment strategies. I'm passionate about writing clean and efficient code and am experienced in working collaboratively with teams. Let's connect and discuss how I can contribute to your project!
+Hi there!👋 I'm Sarim, a skilled software engineer with one year of experience working with React, Node.js, and React Native. I specialize in third-party integrations, Docker, and deployment strategies. I'm passionate about writing clean and efficient code and am experienced in working collaboratively with teams. Let's connect and discuss how I can contribute to your project!
 
 - 📄 [**Resume**](https://drive.google.com/file/d/1J2xsIgXzQFKRhW5dfuWorA3qoUyL5QKu/view?usp=sharing)
 
