@@ -15,7 +15,7 @@
     - Express
     - NestJS
     - React Native
-- Current position: Software Engineer at The Hexaa
+- Current position: Software Engineer at Maqsood Labs
 - Experienced in deployment and deployed multiple projects using:
   - AWS ECS
   - Digital Ocean
