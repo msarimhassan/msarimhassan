@@ -6,7 +6,7 @@
 
 
 ### ⚡️ Here is a bit about me
-- JavaScript and TypeScript developer with 2 years of experience
+- JavaScript and TypeScript developer with +2 years of experience
   - Developed multiple types of projects including CMS and e-commerce
   - Specializing in frameworks and libraries including:
     - React
